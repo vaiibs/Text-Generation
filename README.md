@@ -1,6 +1,7 @@
 # Next Word Prediction with LSTM on Data Sonnet
 
 Overview
+
 This project implements a Next Word Prediction model that predicts the next word in a sentence using the "Sonnet" dataset. By leveraging Natural Language Processing (NLP) techniques, this model enhances text input efficiency in applications such as chatbots, writing assistants, and auto-completion features.
 
 Key Steps
