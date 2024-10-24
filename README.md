@@ -5,15 +5,20 @@ This project implements a Next Word Prediction model that predicts the next word
 
 Key Steps
     
-    Dataset Preparation: Loaded and tokenized Shakespeare's sonnets to convert text into sequences of word tokens.
+    Dataset Preparation: 
+    Loaded and tokenized Shakespeare's sonnets to convert text into sequences of word tokens.
     
-    Text Preprocessing: Created sequences of tokens and padded them for uniform length, generating predictors (input sequences) and labels (target words).
+    Text Preprocessing: 
+    Created sequences of tokens and padded them for uniform length, generating predictors (input sequences) and labels (target words).
     
-    Model Building: Designed an LSTM-based model with an embedding layer for word representation and dropout layers for regularization.
+    Model Building: 
+    Designed an LSTM-based model with an embedding layer for word representation and dropout layers for regularization.
     
-    Training: Trained the model using the tokenized sequences to predict the next word.
+    Training: 
+    Trained the model using the tokenized sequences to predict the next word.
     
-    Text Generation: Developed a function to generate Shakespeare-like text given a seed phrase.
+    Text Generation: 
+    Developed a function to generate Shakespeare-like text given a seed phrase.
 
 Technologies Used
     
